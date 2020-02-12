@@ -1,3 +1,5 @@
 # hello-world
-just another repository
-# this is the second version of readme.
+
+hi humans!
+Wajdi here, i like c++ and competitive programming.
+I'am from Indonesia, nice to meet you, fellow readers.
